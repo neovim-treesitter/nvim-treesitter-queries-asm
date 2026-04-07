@@ -1,9 +1,9 @@
 {
-  "generate": null,
-  "generate_from_json": null,
-  "url": "https://github.com/RubixDev/tree-sitter-asm",
   "semver": false,
   "parser_version": "839741fef4dab5128952334624905c82b40c7133",
   "lang": "asm",
-  "location": null
+  "location": null,
+  "generate": null,
+  "generate_from_json": null,
+  "url": "https://github.com/RubixDev/tree-sitter-asm"
 }
