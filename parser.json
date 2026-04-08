@@ -1,6 +1,6 @@
 {
-  "lang": "asm",
   "url": "https://github.com/RubixDev/tree-sitter-asm",
   "semver": false,
-  "parser_version": "839741fef4dab5128952334624905c82b40c7133"
+  "parser_version": "839741fef4dab5128952334624905c82b40c7133",
+  "lang": "asm"
 }
